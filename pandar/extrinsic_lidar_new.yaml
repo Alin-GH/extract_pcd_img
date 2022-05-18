@@ -1,0 +1,6 @@
+extrinsic:
+- {child_id: lidar_left, delta_x: 5.53, delta_y: 1.31, delta_z: 1.17, frame_id: smartcar,
+  heading: 134.53, pitch: 0.7, roll: -1.29, topic_name: /pandar40p_0/pandar_points}
+- {child_id: lidar_right, delta_x: 5.53, delta_y: -1.29, delta_z: 1.13, frame_id: smartcar,
+  heading: 44.64, pitch: -1.83, roll: -0.38, topic_name: /pandar40p_2/pandar_points}
+
